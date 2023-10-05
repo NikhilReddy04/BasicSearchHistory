@@ -1,0 +1,33 @@
+.history-item-container {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.del-button {
+  align-self: flex-end;
+  background-color: transparent;
+  border: none;
+  margin-left: auto;
+}
+
+.logo-img {
+  width: 30px;
+  height: 30px;
+  margin-right: 20px;
+}
+
+.history-domain {
+  font-size: 15px;
+  margin-right: 10px;
+}
+
+.history-url {
+  color: #64748b;
+}
+
+.time-accessed-para {
+  color: #64748b;
+  margin-right: 25px;
+  font-size: 14px;
+}
